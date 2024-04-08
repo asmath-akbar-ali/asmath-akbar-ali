@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asmath-akbar-ali&label=Profile%20views&color=0e75b6&style=flat" alt="asmath-akbar-ali" /> </p>
+
 ### Hi there 👋<h1 align="center">Hi 👋, I'm Asmath Akbar Ali</h1>
 <h3 align="center">👋 Hello there! I am Asmath Akbar Ali, a student pursuing B.tech Computer Science and Business System at Panimalar Engineering College. 
 </h3>
