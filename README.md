@@ -34,7 +34,7 @@
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!--## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies 
 <!--
 *asmath-akbar-ali/asmath-akbar-ali* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
