@@ -25,7 +25,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmath-akbar-ali&show_icons=true&locale=en&layout=compact" alt="asmath-akbar-ali" /></p>
+<p><img align="left"  alt="asmath-akbar-ali" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmath-akbar-ali&show_icons=true&locale=en" alt="asmath-akbar-ali" /></p>
 
