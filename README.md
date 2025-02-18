@@ -1,25 +1,28 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmath-akbar-ali&label=Profile%20views&color=0e75b6&style=flat" alt="asmath-akbar-ali" /> </p>
 
-### Hi there 👋<h1 align="center">Hi 👋, I'm Asmath Akbar Ali</h1>
-<h3 align="center">👋 I'm pursuing B.tech Computer Science and Business System at Panimalar Engineering College. 
-</h3>
+## Hi there 👋<h1 align="center">Hi 👋, I'm Asmath Akbar Ali</h1>
+<h2 align="center">👋 I'm pursuing B.tech Computer Science and Business System at Panimalar Engineering College. 
+</h2>
 
 <br>
-
+<h3>
+  
 - 🌱 I’m currently learning *some more branches of coding skills*
 
 - 📫 How to reach me *asmathakbarali@gmail.com*
 
 - ⚡ Fun fact *I am a active entertaining person in a group*
-
+</h3>
 <br>
 
-<h2 align="left">Connect with me:</h2>
-
-
+<h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://instagram.com/asmath_akbar_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ms_aj07" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/asmath-akbar-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Asmath Akbar Ali" height="30" width="40" /></a>
+<a href="https://github.com/asmath-akbar-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://www.geeksforgeeks.org/user/asmath_akbar_ali/" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/asmath-akbar-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asmath-akbar-ali" height="40" width="50" /></a>  
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/asmathakbarali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/asmathakbarali" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/asmath_akbar_ali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/asmath_akbar_ali/" height="40" width="50" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/asmath_akbar_ali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/asmath_akbar_ali/" height="40" width="50" /></a>
+<a href="https://instagram.com/https://instagram.com/asmath_akbar_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/asmath_akbar_ali" height="40" width="50" /></a>
 
 </p>
 <br>
