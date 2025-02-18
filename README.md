@@ -15,7 +15,7 @@
 </h3>
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="center">
 <a href="https://github.com/asmath-akbar-ali" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://www.geeksforgeeks.org/user/asmath_akbar_ali/" height="40" width="50" /></a>
 <a href="https://www.linkedin.com/in/asmath-akbar-ali" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asmath-akbar-ali" height="40" width="50" /></a>  
