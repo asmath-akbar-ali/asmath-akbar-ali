@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Computer Science Student | 💻 Passionate Coder | 🌐 Tech Enthusiast</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=Always+learning+new+tech;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=I'm+a+Technophile;I'm+a+Engineer;I'm+a+Builder;I'm+a+Programmer;I'm+a+Programmar;I'm+a+Developer" alt="Typing SVG" />
 </div>
 
 ---
